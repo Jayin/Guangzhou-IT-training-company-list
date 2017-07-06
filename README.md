@@ -5,7 +5,7 @@
 <table class="table table-bordered table-striped table-condensed">  
     <tr>
         <th>编号</th> 
-        <th>公司名称</th>  
+        <th>公司名称</th>  
         <th>公司地址</th>
     </tr>
     <tr>  
